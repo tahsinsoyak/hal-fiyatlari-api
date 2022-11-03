@@ -1,0 +1,506 @@
+[
+    {
+        "urunismi": "Ahududu",
+        "edf": "50\u20ba ",
+        "eyf": " 100 \u20ba",
+        "birim": "Pk\/125 G"
+    },
+    {
+        "urunismi": "Ananas",
+        "edf": "25\u20ba ",
+        "eyf": " 35 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Armut (Santamariya)",
+        "edf": "10\u20ba ",
+        "eyf": " 16 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Avokado",
+        "edf": "9\u20ba ",
+        "eyf": " 23 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Biber (Dolma)",
+        "edf": "6\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber Cin",
+        "edf": "9\u20ba ",
+        "eyf": " 25 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber \u00c7arli",
+        "edf": "6\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber Kaliforniya K\u0131rm\u0131z\u0131",
+        "edf": "8\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber Kaliforniya Sar\u0131",
+        "edf": "8\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber Kapya",
+        "edf": "9\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber Sivri",
+        "edf": "5\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Biber \u00dc\u00e7burun",
+        "edf": "5\u20ba ",
+        "eyf": " 17 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Blue Berry",
+        "edf": "15\u20ba ",
+        "eyf": " 25 \u20ba",
+        "birim": "Pk\/125 G"
+    },
+    {
+        "urunismi": "Brokoli",
+        "edf": "7\u20ba ",
+        "eyf": " 18 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "\u00c7ilek",
+        "edf": "16\u20ba ",
+        "eyf": " 30 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Dereotu",
+        "edf": "1.4\u20ba ",
+        "eyf": " 3.5 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Domates",
+        "edf": "2\u20ba ",
+        "eyf": " 8 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Domates (Ceri)",
+        "edf": "15\u20ba ",
+        "eyf": " 23 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Domates (Pembe)",
+        "edf": "2.5\u20ba ",
+        "eyf": " 8 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Domates Kokteyl",
+        "edf": "6\u20ba ",
+        "eyf": " 13 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Ejder Meyvesi",
+        "edf": "55\u20ba ",
+        "eyf": " 65 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Elma (GALA)",
+        "edf": "5\u20ba ",
+        "eyf": " 15 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Elma (Golden)",
+        "edf": "5\u20ba ",
+        "eyf": " 18 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Elma (Grann Smith)",
+        "edf": "12\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Elma (Starking)",
+        "edf": "5\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Erik (Ancelika)",
+        "edf": "5\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Fasulye",
+        "edf": "6\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Frenk \u00dcz\u00fcm\u00fc",
+        "edf": "65\u20ba ",
+        "eyf": " 75 \u20ba",
+        "birim": "Pk\/125 G"
+    },
+    {
+        "urunismi": "Greyfurt",
+        "edf": "2\u20ba ",
+        "eyf": " 5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Havu\u00e7 (Beypazar\u0131)",
+        "edf": "3.5\u20ba ",
+        "eyf": " 5.5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "H\u0131yar",
+        "edf": "2\u20ba ",
+        "eyf": " 7 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "H\u0131yar (Slor Paket)",
+        "edf": "5\u20ba ",
+        "eyf": " 9 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Ispanak",
+        "edf": "5\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "\u0130ncir (Beyaz)",
+        "edf": "13\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kabak (Bal Dekorluk)",
+        "edf": "6\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kabak (Bal)",
+        "edf": "4\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kabak (Sak\u0131z)",
+        "edf": "1.8\u20ba ",
+        "eyf": " 5.5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Karadeniz Yapra\u011f\u0131",
+        "edf": "1\u20ba ",
+        "eyf": " 2 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Karnabahar",
+        "edf": "4\u20ba ",
+        "eyf": " 8 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Karpuz",
+        "edf": "1.2\u20ba ",
+        "eyf": " 3 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kavun",
+        "edf": "3\u20ba ",
+        "eyf": " 8 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kereviz",
+        "edf": "7\u20ba ",
+        "eyf": " 11 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kivi (\u0130thal)",
+        "edf": "40\u20ba ",
+        "eyf": " 80 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Kuzu Kula\u011f\u0131",
+        "edf": "1.5\u20ba ",
+        "eyf": " 3 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Lahana (Beyaz)",
+        "edf": "2\u20ba ",
+        "eyf": " 4 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Lahana (K\u0131rm\u0131z\u0131)",
+        "edf": "4\u20ba ",
+        "eyf": " 6 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Lime Limon",
+        "edf": "80\u20ba ",
+        "eyf": " 93.33 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Limon",
+        "edf": "9\u20ba ",
+        "eyf": " 20 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Mango",
+        "edf": "15\u20ba ",
+        "eyf": " 25 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Mantar (Taze)",
+        "edf": "20\u20ba ",
+        "eyf": " 35 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Marul (Aysberk)",
+        "edf": "3\u20ba ",
+        "eyf": " 7 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Marul (D\u00fcz)",
+        "edf": "2\u20ba ",
+        "eyf": " 6.5 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Marul (K\u0131v\u0131rc\u0131k)",
+        "edf": "2\u20ba ",
+        "eyf": " 0.65 \u20ba",
+        "birim": "Adet"
+    },
+    {
+        "urunismi": "Maydonoz",
+        "edf": "1.3\u20ba ",
+        "eyf": " 2.5 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Muz (Yerli)",
+        "edf": "16\u20ba ",
+        "eyf": " 30 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Muz \u0130thal (1 Kg)",
+        "edf": "30\u20ba ",
+        "eyf": " 39.47 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Nane",
+        "edf": "1.5\u20ba ",
+        "eyf": " 3.5 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Nektarin",
+        "edf": "10\u20ba ",
+        "eyf": " 16 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Pancar",
+        "edf": "3\u20ba ",
+        "eyf": " 6 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Patates",
+        "edf": "3.5\u20ba ",
+        "eyf": " 9 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Patates (Baby)",
+        "edf": "4\u20ba ",
+        "eyf": " 13 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Patates (Kumpirlik)",
+        "edf": "4\u20ba ",
+        "eyf": " 12 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Patl\u0131can",
+        "edf": "4\u20ba ",
+        "eyf": " 11 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Patl\u0131can (Topak)",
+        "edf": "4\u20ba ",
+        "eyf": " 13 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Paz\u0131",
+        "edf": "1.5\u20ba ",
+        "eyf": " 3 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "P\u0131rasa",
+        "edf": "6\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Portakal (S\u0131kmal\u0131k)",
+        "edf": "6\u20ba ",
+        "eyf": " 12 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Portakal (Valencia Pak)",
+        "edf": "9\u20ba ",
+        "eyf": " 16 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Roka",
+        "edf": "1\u20ba ",
+        "eyf": " 3 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Sar\u0131msak",
+        "edf": "10\u20ba ",
+        "eyf": " 32 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Sar\u0131msak (\u0130thal)",
+        "edf": "25\u20ba ",
+        "eyf": " 45 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Semizotu",
+        "edf": "2\u20ba ",
+        "eyf": " 3.5 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "So\u011fan (Arpac\u0131k)",
+        "edf": "4.5\u20ba ",
+        "eyf": " 9.5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "So\u011fan (K\u0131rm\u0131z\u0131)",
+        "edf": "5\u20ba ",
+        "eyf": " 10 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "So\u011fan (Ye\u015fil)",
+        "edf": "6\u20ba ",
+        "eyf": " 12 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "So\u011fan Kuru",
+        "edf": "3\u20ba ",
+        "eyf": " 8.5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "\u015eeftali",
+        "edf": "6\u20ba ",
+        "eyf": " 10.5 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Tere",
+        "edf": "1.2\u20ba ",
+        "eyf": " 3 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "Turp (K\u0131rm\u0131z\u0131)",
+        "edf": "3\u20ba ",
+        "eyf": " 7 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "TURP(F\u0131nd\u0131k)",
+        "edf": "2\u20ba ",
+        "eyf": " 4 \u20ba",
+        "birim": "Ba\u011f"
+    },
+    {
+        "urunismi": "\u00dcz\u00fcm \u00c7ekirdeksiz",
+        "edf": "8\u20ba ",
+        "eyf": " 13 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "\u00dcz\u00fcm(Beyaz)",
+        "edf": "7\u20ba ",
+        "eyf": " 13 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "\u00dcz\u00fcm(Siyah)",
+        "edf": "8\u20ba ",
+        "eyf": " 15 \u20ba",
+        "birim": "Kg"
+    },
+    {
+        "urunismi": "Zencefil",
+        "edf": "35\u20ba ",
+        "eyf": " 60 \u20ba",
+        "birim": "Kg"
+    }
+]
